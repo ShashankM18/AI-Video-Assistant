@@ -1,0 +1,1 @@
+current_rag_chain = None
